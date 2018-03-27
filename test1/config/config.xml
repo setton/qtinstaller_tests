@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Your application</Name>
+    <Version>1.0.0</Version>
+    <Title>test 1 installer</Title>
+    <Publisher>moi</Publisher>
+    <StartMenuDir>menu for test 1</StartMenuDir>
+    <TargetDir>@HomeDir@/test1</TargetDir>
+</Installer>

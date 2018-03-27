@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>package 1</DisplayName>
+    <Description>Install this</Description>
+    <Version>0.1.0-1</Version>
+    <ReleaseDate>2017-03-27</ReleaseDate>
+    <Licenses>
+        <License name="test1 license" file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>page.ui</UserInterface>
+    </UserInterfaces>
+</Package>
